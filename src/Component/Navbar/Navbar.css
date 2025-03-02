@@ -1,5 +1,7 @@
 nav{
-    width: 100%;
+    width: 80% !important;
+    padding: 0.5% 10%;
+    height: fit-content;
     color: white;
     position: fixed;
     top: 0;
