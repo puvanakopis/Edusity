@@ -3,6 +3,8 @@ import './Navbar.css';
 import logo from '../../assets/logo.png';
 
 const Navbar = () => {
+
+  // change navbar color when scroll
   const [sticky, setSticky] = useState(false);
 
   useEffect(() => {

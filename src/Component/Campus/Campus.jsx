@@ -9,12 +9,16 @@ import white_arrow from '../../assets/white-arrow.png'
 const Campus = () => {
   return (
     <div className='campus'>
+
+        {/* Gallery section*/}
         <div className="gallery">
             <img src={gallery_1} alt="gallery_1" />
             <img src={gallery_2} alt="gallery_2" />
             <img src={gallery_3} alt="gallery_3" />
             <img src={gallery_4} alt="gallery_4" />
         </div>
+
+        {/* Button*/}
         <button className='btn dark-btn'>See more here <img src={white_arrow} alt="" /></button>
     </div>
   )

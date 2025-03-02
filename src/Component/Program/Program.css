@@ -1,3 +1,4 @@
+/*programs container */
 .programs{
     width: 80%;
     margin: 80px auto;
@@ -6,6 +7,8 @@
     justify-content: space-between;
 }
 
+
+/* Individual program card */
 .program img{
     width: 100%;
     border-radius: 10px;
@@ -22,6 +25,7 @@
     display: block;
 }
 
+/* Caption */
 .caption{
     border-radius: 10px;
     position: absolute;

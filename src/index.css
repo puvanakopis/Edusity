@@ -17,13 +17,14 @@ a{
   cursor: pointer;
 }
 
-/* Container */
+/* Container for all component */
 .container{
   width: 100%;
   /* padding: 0 10% */
 }
 
-/* Button */
+
+/*All Button style */
 .btn{
   background-color: #fff;
   color: #212121;
@@ -38,7 +39,8 @@ a{
   align-items: center;
 }
 
-.btn.dark-btn{
+/*All Button style which is after home component*/
+.btn .dark-btn{
   background-color: #212ea2 !important;
   color: #fff;
 }

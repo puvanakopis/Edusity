@@ -1,3 +1,4 @@
+/* Main navbar */
 nav{
     width: 80% !important;
     padding: 0.5% 10%;
@@ -12,10 +13,12 @@ nav{
     z-index: 5;
 }
 
+/* Logo */
 nav .logo{
    width: 180px; 
 }
 
+/* Navigation list */
 nav ul{
     display: flex;
     flex-direction: row;

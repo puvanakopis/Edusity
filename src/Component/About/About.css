@@ -1,17 +1,18 @@
+/*About Main container*/
 .about{
     width: 80%;
     margin: 150px auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* background-color: aqua; */
 }
 
+
+/* Left section */
 .about-left{
     flex-basis: 40%;
     position: relative;
 }
-
 
 .about-img{
     width: 100%;
@@ -26,6 +27,8 @@
     transform: translate(-50%,-50%);
 }
 
+
+/* right section */
 .about-right{
     flex-basis: 56%;
 }
