@@ -8,7 +8,7 @@ import white_arrow from '../../assets/white-arrow.png'
 
 const Contact = () => {
 
-
+  //manage form submission response
   const [result, setResult] = React.useState("");
 
   const onSubmit = async (event) => {
