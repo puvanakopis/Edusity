@@ -40,7 +40,7 @@ a{
 }
 
 /*All Button style which is after home component*/
-.btn .dark-btn{
+.btn.dark-btn{
   background-color: #212ea2 !important;
   color: #fff;
 }
