@@ -30,3 +30,9 @@ nav ul li{
     font-size: 16px;
     cursor: pointer;
 }
+
+/* Dark navbar when scrolling */
+.dark-nav{
+    background-color: #212ea2;
+    transition: 0.5s;
+}
