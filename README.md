@@ -1,12 +1,18 @@
-# React + Vite
+# Edusity - Education Website  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview  
+Edusity is a modern and responsive education website designed to provide information about academic programs, campus life, and student experiences. The website features a clean design, easy navigation, and engaging visuals to enhance the user experience.  
 
-Currently, two official plugins are available:
+## Features  
+- **Home Page**: A welcoming section with a call to action for exploring programs.  
+- **Programs Offered**: Showcases various academic offerings.  
+- **About University**: Highlights the institution's mission and vision.  
+- **Campus Photos**: A gallery featuring the university's environment and students.  
+- **Testimonials**: Student reviews and experiences.  
+- **Contact Section**: A form for inquiries and university contact details.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used   
+- **CSS3**: Styling and layout  
+- **React.js**: Front-end UI components  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Edusity](https://github.com/user-attachments/assets/7320fe22-a2b4-40a5-8595-7f04056b67f7)
