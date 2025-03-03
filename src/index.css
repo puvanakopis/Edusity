@@ -20,7 +20,7 @@ a{
 /* Container for all component */
 .container{
   width: 100%;
-  /* padding: 0 10% */
+  padding: 0 10%
 }
 
 
@@ -43,4 +43,14 @@ a{
 .btn.dark-btn{
   background-color: #212ea2 !important;
   color: #fff;
+}
+
+
+
+
+/* media query */
+@media (max-width: 1000px) {
+  .btn{
+    padding: 14px 22px;
+  }
 }

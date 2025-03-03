@@ -12,4 +12,37 @@
     list-style: none;
     display: inline-block;
     margin-left: 30px;
+    cursor: pointer;
+}
+
+
+
+/* media query for max width 1000px */
+@media (max-width: 1000px) {
+   
+}
+
+
+
+/* media query for max width 850px */
+@media (max-width: 800px) {
+
+}
+
+
+
+/* media query for max width 850px */
+@media (max-width: 650px) {
+    .footer{
+        display: block;
+        text-align: center;
+    }
+
+    .footer ul li{
+        margin: 10px;
+    }
+
+    .footer ul{
+        margin-top: 10px;
+    }
 }

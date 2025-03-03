@@ -40,3 +40,34 @@
     width: 20px;
     margin-left: 20px;
 }
+
+
+/* media query for max width 1000px */
+@media (max-width: 1000px) {
+   
+}
+
+
+
+/* media query for max width 850px */
+@media (max-width: 850px) {
+   .hero-text h1{
+    font-size: 40px;
+   }
+}
+
+
+
+/* media query for max width 850px */
+@media (max-width: 650px) {
+   .hero-text h1{
+    font-size: 35px;
+    max-width: 400px;
+    margin: auto;
+   }
+   
+   .hero-text p{
+    font-size: 15px;
+    margin:15px 35px;
+   }
+}
